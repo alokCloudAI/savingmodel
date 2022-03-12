@@ -1,0 +1,4 @@
+/ galary ----- > welcome to galary
+/ ---- > welecome to home page
+/ Cart -----> welecome to Cart
+/ contact ---- > welcome to contact
