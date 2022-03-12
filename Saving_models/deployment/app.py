@@ -15,7 +15,7 @@ def galary():
 
 @app.route('/contact')
 def contact():
-    return 'Welecome to contact'
+    return render_template('contact.html')
 
 @app.route('/Cart')
 def Cart():
